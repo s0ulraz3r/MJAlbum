@@ -4,7 +4,7 @@
 *	**LruCache** module is used to cache the Bitmap images, this improved the performance by reducing the request to the server
 *	The HTTP response is handled by utilizing **HttpUrlConnection, JsonArray & AsyncTask** which **reduces the workload** on the **main UI thread** 
 
-##Note:
+## Note:
 > This application is built using core Android components. No third party libraries are used.
 
 ### Technology Stack
